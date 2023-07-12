@@ -1,0 +1,30 @@
+body {
+  background-color:aqua; 
+}
+
+div {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.div1 {
+  border: solid;
+}
+.div2 {
+  border: dotted;
+}
+.div3 {
+  border: solid;
+}
+.div4 {
+  border: dotted;
+}
+.div5 {
+  border: solid;
+}
+.div6 {
+  border: dotted;
+}
+.div7 {
+  border: solid;
+}
